@@ -1,5 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Yerin%20Ko&fontSize=100&animation=scaleIn) -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=YerinKo%20GitHub&amp;&fontSize=60&animation=twinkling&fontAlign=70&amp;rotate=13&amp;fontAlignY=25&amp;desc=I'm%20takes%20a%20lot%20of%20courage%20to%20go%20into%20the%unknow.&amp;descAlign=70.&amp;descAlignY=44" style="max-width: 100%;" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=YerinKo%20GitHub&amp;&fontSize=60&animation=twinkling&fontAlign=70&amp;rotate=13&amp;fontAlignY=25&amp;desc=I%20can%20do%20it%20.&amp;descAlign=70.&amp;descAlignY=44" style="max-width: 100%;" />
 
 <br>
 <br>
