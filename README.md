@@ -48,4 +48,4 @@
 
 
 
-![](https://readme-stickers.vercel.app/api/kodeveloper?name={고예린}&theme=dark)
+![](https://readme-stickers.vercel.app/api/kodeveloper?name=고예린&theme=dark)
