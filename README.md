@@ -1,9 +1,4 @@
-
-
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi there 👋&fontSize=90)
-
-
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Hello I'm yerin%20GitHub&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=👋Hello%I'm yerin&fontSize=70&animation=scaleIn)
 
 
 
