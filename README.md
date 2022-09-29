@@ -47,7 +47,7 @@
   <a href="http://blog.naver.com/rhdpfls12"><img src="https://img.shields.io/badge/%20Blog-11B48A?style=flat-square&logo=Storyblok&logoColor=white&link=http://blog.naver.com/rhdpfls12"/></a>&nbsp
   <a href="rhdpfls12@naver.com"><img src="https://img.shields.io/badge/mail-005FF9?style=flat-square&logo=Mail.Ru&logoColor=white&link=rhdpfls12@naver.com"/></a>
   <a href="https://github.com/ko-yerin"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link= https://github.com/ko-yerin"/></a>
-  <a href="https://ko-yerin.github.io/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=portpolio&logoColor=white&link= https://ko-yerin.github.io/"/></a>
+  <a href="https://ko-yerin.github.io/"><img src="https://img.shields.io/badge/GitHub Sponsors-EA4AAA?style=flat-square&logo=portpolio&logoColor=white&link= https://ko-yerin.github.io/"/></a>
 </p>
 
 <br>
