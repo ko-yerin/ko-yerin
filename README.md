@@ -1,7 +1,7 @@
 # ko-yerin
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ko-yerin&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 # Links
