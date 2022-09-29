@@ -5,7 +5,7 @@
 
 # Links
 
-<a href="[rhdpfls12@naver.com]" target="_blank"><img src="https://img.shields.io/badge/[BLOG]-[3. 0094F5]?style=flat-square&logo=[4.Storyblok)]&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 
 E-mail - rhdpfls12@naver.com
