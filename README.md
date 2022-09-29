@@ -32,8 +32,8 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="http://blog.naver.com/rhdpfls12"><img src="https://img.shields.io/badge/%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=http://blog.naver.com/rhdpfls12"/></a>&nbsp
-  <a href="rhdpfls12@naver.com"><img src="https://img.shields.io/badge/mail-005FF9?style=flat-square&logo=Storyblok&logoColor=white&link=rhdpfls12@naver.com"/></a>
+  <a href="http://blog.naver.com/rhdpfls12"><img src="https://img.shields.io/badge/%20Blog-11B48A?style=flat-square&logo=Storyblok&logoColor=white&link=http://blog.naver.com/rhdpfls12"/></a>&nbsp
+  <a href="rhdpfls12@naver.com"><img src="https://img.shields.io/badge/mail-005FF9?style=flat-square&logo=Mail.Ru&logoColor=white&link=rhdpfls12@naver.com"/></a>
 </p>
 
 
