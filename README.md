@@ -1,14 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Yerin%20Ko&fontSize=100&animation=scaleIn)
 
 
-
+<div align="center">
 
 
 <h3 align="center">📚 My GitHub Stats 📚</h3>
-<br>
-
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ko-yerin&show_icons=true&theme=radical)
-
+</div>
 
 
 
