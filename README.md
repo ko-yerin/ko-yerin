@@ -38,3 +38,10 @@
   <a href="rhdpfls12@naver.com"><img src="https://img.shields.io/badge/mail-005FF9?style=flat-square&logo=Mail.Ru&logoColor=white&link=rhdpfls12@naver.com"/></a>
   <a href="https://github.com/ko-yerin"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link= https://github.com/ko-yerin"/></a>
 </p>
+
+
+  <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
