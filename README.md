@@ -17,7 +17,6 @@
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="http://blog.naver.com/rhdpfls12"><img src="https://img.shields.io/badge/%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=http://blog.naver.com/rhdpfls12"/></a>&nbsp
-  <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
   <a href="rhdpfls12@naver.com"><img src="https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rhdpfls12@naver.com"/></a>
 </p>
 
