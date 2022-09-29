@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=headertext=%20👋Hello %20%20&height=200&fontSize=70&animation=scaleIn)
-<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JisuPark%20%20&height=200&fontSize=100) -->
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=headertext=%20👋Hello%20&height=200&fontSize=70&animation=scaleIn)
+
 
 
 
