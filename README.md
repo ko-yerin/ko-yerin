@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Yerin%20Ko&fontSize=100&animation=scaleIn)
 
-
+<br>
 <div align="center">
 
 
@@ -35,7 +35,7 @@
   
 </p>
 
-
+<br>
 
 <h3 align="center">🌈 About Me 🌈</h3>
 <p align="center">
@@ -44,7 +44,7 @@
   <a href="https://github.com/ko-yerin"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link= https://github.com/ko-yerin"/></a>
 </p>
 
-
+<br>
 
 
 ![](https://readme-stickers.vercel.app/api/kodeveloper?name=고예린&theme=dark)
