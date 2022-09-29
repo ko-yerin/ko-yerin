@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=👋yerin%20ko&fontSize=100&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Yerin%20Ko&fontSize=100&animation=scaleIn)
 
 
 
